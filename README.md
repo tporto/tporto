@@ -11,7 +11,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tporto&layout=compact&count_private=true&theme=gruvbox&langs_count=10&hide=c_sharp,css,html"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tporto&layout=compact&count_private=true&theme=gruvbox&langs_count=10&hide=shell,css,html"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
