@@ -44,8 +44,7 @@ These are some of the technologies and tools that I work with:
 
 Onde me encontrar? :mag:  
 
-<a href="https://twitter.com/_tporto"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/_tporto) 
-
+<a href="https://twitter.com/_tporto"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/_tporto)&nbsp;
 <a href="mailto:leticiadasilva.contato@gmail.com"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/email.png" width="16"></img></a> [Email](mailto:tporto88@gmail.com)  
 
 ---  
