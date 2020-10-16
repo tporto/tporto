@@ -40,6 +40,6 @@ These are some of the technologies and tools that I work with:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ---  
-![](https://komarev.com/ghpvc/?username=tporto&color=blue&style=flat
+![](https://komarev.com/ghpvc/?username=tporto&color=blue&style=flat)
 
 
