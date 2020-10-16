@@ -41,3 +41,6 @@ These are some of the technologies and tools that I work with:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 
 
+![](https://komarev.com/ghpvc/?username=tporto&color=blue&style=flat
+
+
