@@ -2,7 +2,7 @@
 
 
 	 💻 Software Developer
-	 🚀 Back-end Developer at PJA
+	 🚀 Back-end Developer at inBolso
 	 🌎 Impeatriz, MA, BR
 
 
