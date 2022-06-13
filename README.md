@@ -1,11 +1,6 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"> <b> Hi there </b>
-
-
-	 💻 Software Developer
-	 🚀 Back-end Developer at inBolso
-	 🌎 Impeatriz, MA, BR
-
-
+💻 Software Developer
+🚀 Back-end Developer at inBolso
+🌎 Impeatriz, MA, BR
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
