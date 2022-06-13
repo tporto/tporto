@@ -1,6 +1,6 @@
-💻 Software Developer
-🚀 Back-end Developer at inBolso
-🌎 Impeatriz, MA, BR
+💻 Software Developer<br>
+🚀 Back-end Developer at inBolso<br>
+🌎 Impeatriz, MA, BR<br>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
