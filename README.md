@@ -1,6 +1,6 @@
 💻 Software Developer<br>
 🚀 Full-Stack Developer at Linx<br>
-🌎 Impeatriz, MA, BR<br>
+🌎 Araguaína, TO, BR<br>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
